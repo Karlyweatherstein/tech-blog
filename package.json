@@ -1,10 +1,10 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
-  "description": "A tech blog for developers",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node server.js",
     "seed": "node seeds/index.js"
   },
@@ -20,15 +20,17 @@
   "homepage": "https://github.com/Karlyweatherstein/tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
-    "connect-session-sequelize": "^7.1.4",
-    "dotenv": "^16.0.1",
-    "express": "^4.18.1",
+    "connect-session-sequelize": "^7.1.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
     "express-handlebars": "^6.0.5",
     "express-session": "^1.17.2",
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
     "node.js": "^0.0.1-security",
     "sequelize": "^6.19.0"
-
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
   }
 }
