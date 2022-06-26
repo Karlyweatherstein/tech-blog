@@ -1,4 +1,4 @@
-# tech-blog
+# Tech Blog
 
 ## Description
 
@@ -10,7 +10,7 @@
   I WANT a CMS-style blog site
   SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
-![Mockup](/images/tech-blog-mockup.jpg)
+![Mockup](/public/images/tech-blog-mockup.jpg)
 
 ## Questions
 
@@ -18,4 +18,4 @@
 
 - GitHub URL for this project: https://github.com/Karlyweatherstein/tech-blog
 
-- Deployed URL:
+- Deployed URL: https://git.heroku.com/dry-coast-72708.git
