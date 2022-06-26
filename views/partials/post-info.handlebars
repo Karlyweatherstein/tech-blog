@@ -1,8 +1,8 @@
 <article class="post">
-  <div class="title">
+  <div class="title" id="title">
     <a href="/post/{{{id}}}" target="_blank">{{title}}</a>
   </div>
-  <div class="meta">
+  <div class="meta" id="content">
     By
     {{user.username}}
     on
@@ -12,6 +12,6 @@
       {{format_plural "comment" comments.length}}</a>
   </div>
   <div>
-    <p>{{{post_text}}}</p>
+    <p class="p">{{{post_text}}}</p>
   </div>
 </article>

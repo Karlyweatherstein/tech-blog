@@ -10,7 +10,7 @@
   I WANT a CMS-style blog site
   SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
-![Mockup](assets/images/tech-blog-mockup.jpg)
+![Mockup](/images/tech-blog-mockup.jpg)
 
 ## Questions
 
