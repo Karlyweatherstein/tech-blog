@@ -39,7 +39,7 @@ router.get("/", withAuth, (req, res) => {
 
 router.get("/edit/:id", withAuth, (req, res) => {
   Post.findByPk(req.params.id, {
-    attributes: ["id", "post_texts", "title", "created_at"],
+    attributes: ["id", "post_text", "title", "created_at"],
     include: [
       {
         model: Comment,
