@@ -18,4 +18,4 @@
 
 - GitHub URL for this project: https://github.com/Karlyweatherstein/tech-blog
 
-- Deployed URL: https://secure-peak-87048.herokuapp.com/
+- Deployed URL: https://lit-tor-57134.herokuapp.com/
