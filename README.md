@@ -18,4 +18,4 @@
 
 - GitHub URL for this project: https://github.com/Karlyweatherstein/tech-blog
 
-- Deployed URL: https://git.heroku.com/dry-coast-72708.git
+- Deployed URL: https://git.heroku.com/lit-tundra-90313.git
